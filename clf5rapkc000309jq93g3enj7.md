@@ -14,7 +14,7 @@ tags: virtual-machine, free, learning, cybersecurity-1
 
 So HackTheBox Academy is a platform that offers **virtual machines, learning paths, and career-oriented modules** to security enthusiasts to practice + develop their cybersec skills.
 
-They do this by emulating real-world hacking scenarios. It's an excellent resource for enthusiastic hackers and is \*\*<mark>completely free</mark>\*\*💸.
+They do this by emulating real-world hacking scenarios. It's an excellent resource for enthusiastic hackers and is **<mark>completely free</mark>**💸.
 
 ### *So let's have ourselves free virtual machines,*
 

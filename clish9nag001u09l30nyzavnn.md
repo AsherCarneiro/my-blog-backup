@@ -5,7 +5,6 @@ seoDescription: "Picture this: an old laptop hiding in the dark depths of my sto
 datePublished: Mon Jun 12 2023 06:33:04 GMT+0000 (Coordinated Universal Time)
 cuid: clish9nag001u09l30nyzavnn
 slug: from-dusty-laptop-to-ad-slaying-hero-my-epic-adguard-server-adventure
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1686551414021/c4c429de-fab7-4614-92ae-ad2c9c5e1952.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1686551527126/1d46628e-0a32-41e1-8622-aa338cba3bb8.png
 tags: dns, server, security, adguardhome, localdns
 

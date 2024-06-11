@@ -5,7 +5,6 @@ seoDescription: "Well, Servers are brilliantly versatile as you can turn your gr
 datePublished: Mon Apr 10 2023 06:20:04 GMT+0000 (Coordinated Universal Time)
 cuid: clgag29f4000c0ampeedx47pw
 slug: why-you-need-a-home-server-right-now
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1681107379823/c8a468e8-2142-4ce4-a389-21a465970f02.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1681107518312/3a823ada-130f-4ffa-88ac-ecce4fa377d5.png
 tags: microservices, linux, docker, server, homeserver
 

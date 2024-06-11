@@ -4,7 +4,6 @@ seoTitle: "HTB Academy - Free Virtual Machines over browser"
 datePublished: Sun Mar 12 2023 18:56:01 GMT+0000 (Coordinated Universal Time)
 cuid: clf5rapkc000309jq93g3enj7
 slug: whats-htb-academy-free-virtual-machines-over-browser
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1678647084650/a670d19d-cdbc-4240-a592-96dae2100d79.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1678647268993/2539e828-7187-44a2-84f9-3bffe398a483.png
 tags: virtual-machine, free, learning, cybersecurity-1
 
